@@ -1,0 +1,88 @@
+.container{
+	width:433px;
+    height:200px;
+    padding:20px;
+    background-image:url("https://cdn.shopify.com/s/files/1/0647/7329/products/mb_large.png?v=1466183069");
+    border-radius:9px;
+    text-align:center;
+    margin:50px auto;
+    font-size:30px;
+    border:solid red 2px;
+    display:flex;
+
+}
+nav{
+	text-align: center;
+	justify-content: space-between; 
+	white-space: nowrap;
+	margin:auto;
+	font-family: 'Prompt', sans-serif;
+
+	}
+nav a:hover {
+	color: #EBDEF0;
+	text-decoration: none;
+	border-bottom: 2px solid #F5B7B1;
+}
+body{
+	background-image:url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/majin-buu-dragonball-z.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+
+}
+nav a{
+	padding:21px;
+}
+.haha{
+	text-align: center;
+	padding:19px;
+	color:orange;
+	border:solid pink 3px;
+	background-color:pink;
+	font-size: 30px;
+}
+.sike{
+	width:800px;
+	margin: 0 auto;
+}
+.buu{
+	height: 270px;
+	padding:20px;
+}
+.gal{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+h1{
+	color:orange;
+}
+a{
+	color:black;
+}
+.mike{
+	height:270px;
+}
+.swagg{
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+.icey{
+	color:orange;
+}
+video{
+	width:500px;
+	margin: 0 auto;
+	display: block;
+}
+.coco{
+	color:orange;
+}
+.co{
+	display: flex;
+	justify-content: center;
+	font-size: 50px;
+}
